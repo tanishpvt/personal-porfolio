@@ -28,7 +28,7 @@ body{
 
 section{
     padding:1rem 5%;
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 
 .heading{
@@ -346,7 +346,6 @@ header .follow a:hover{
 }
 
 .service .box-container .box i{
-    height:6rem;
     width:6rem;
     line-height: 6rem;
     font-size: 2.5rem;
